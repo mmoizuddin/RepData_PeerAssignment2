@@ -1,0 +1,10 @@
+base
+downloader
+ggplot2
+knitr
+lubridate
+plyr
+reshape2
+scales
+stringr
+xtable
